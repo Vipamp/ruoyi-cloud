@@ -10,6 +10,8 @@
 
 - **master** spring原生方式，使用eureka做注册中心和spring config做配置中心
 - **nacos** 集成spring-cloud-alibaba 使用nacos做注册中心和配置中心
+- **my-dev** 在原版的 RuoYi-cloud 的系统的 master 分支上，修改定制的个人开发分支
+- **my-nacos-dev** 在原版的 RuoYi-cloud 的系统的 nacos 分支上，修改定制的个人开发分支
 
 本项目FORK自  [若依/RuoYi](https://gitee.com/y_project/RuoYi)
 
